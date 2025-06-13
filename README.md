@@ -1,10 +1,10 @@
 # blossom_app
 
 Bu proje, Flutter ve Firebase teknolojileri kullanılarak geliştirilmiş modern ve kapsamlı bir mobil e-ticaret uygulamasıdır. Kullanıcı ve admin rollerini destekleyen bu sistem, bir e-ticaret platformundan beklenen temel işlevlerin tamamını barındırmakta ve ölçeklenebilir bir altyapı sunmaktadır.
-🎯 Projenin Amacı
+# 🎯 Projenin Amacı
 Bu proje, mobil platformlarda dinamik ve güvenilir bir alışveriş deneyimi sağlamayı hedefler. Kullanıcıların kolayca ürünleri keşfedip sipariş verebildiği, adminin ise tüm operasyonları zahmetsizce yönetebildiği bir yapı kurulmuştur. Tamamen gerçek dünyaya uyarlanabilir bir e-ticaret iskeleti sunar.
 
-⚙️ Teknolojiler
+# ⚙️ Teknolojiler
 Flutter: Performans odaklı, platformlar arası mobil geliştirme.
 
 Firebase Authentication: Kullanıcı yönetimi ve kimlik doğrulama.
@@ -13,7 +13,7 @@ Firebase Firestore: Gerçek zamanlı, ölçeklenebilir veri tabanı.
 
 Firebase Storage: Ürün görselleri ve diğer medya dosyalarının güvenli depolanması.
 
-👤 Kullanıcı Özellikleri
+# 👤 Kullanıcı Özellikleri
 Üye olma ve giriş yapma (Firebase Authentication).
 
 Şifre değiştirme ve güvenli çıkış yapma.
@@ -34,7 +34,7 @@ Kart ekleme, güncelleme ve silme.
 
 Yalnızca satın alınan ürünler için yorum ve puan verme (sahte değerlendirmelere karşı güvenlik).
 
-🛒 Sipariş ve Ödeme
+# 🛒 Sipariş ve Ödeme
 Kullanıcılar seçtikleri ürünleri sepetlerine ekleyerek sipariş verebilir.
 
 Kredi kartı bilgileri (simüle edilmiş) ile ödeme işlemi gerçekleştirilir.
@@ -43,19 +43,19 @@ Sipariş oluşturulurken adres ve kart bilgileri zorunlu tutulur.
 
 Sipariş durumu (hazırlanıyor, kargoda, teslim edildi) admin tarafından güncellenebilir.
 
-🛠️ Admin Özellikleri
+# 🛠️ Admin Özellikleri
 Ürün katalog yönetimi: Ürün ekleme, güncelleme, silme.
 
 Sipariş yönetimi: Gelen siparişleri listeleme, sipariş durumlarını değiştirme.
 
-🚀 Öne Çıkanlar
+# 🚀 Öne Çıkanlar
 - Gerçek bir e-ticaret uygulamasında olması gereken temel işlevlerin tamamını kapsayan bir sistem.
 - Satın alınmayan ürünlere yorum yapılamaması ve puan verilememesi ile sahte geri bildirimlerin önlenmesi.
 - Kullanıcı ve admin rollerine göre arayüz ve yetkilerin dinamik olarak ayrılması.
 - Firebase altyapısı ile hızlı, güvenilir ve ölçeklenebilir bir çözüm.
 - Modern, kullanıcı dostu ve mobil uyumlu tasarım.
 
-📷 Ekran Görüntüleri
+# 📷 Ekran Görüntüleri
 
 ![1](https://github.com/user-attachments/assets/f214c154-2f2c-4515-9e3f-920eb565155a)
 ![2](https://github.com/user-attachments/assets/b2df0b86-f945-4c15-8899-9da20b396fb6)
