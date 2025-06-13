@@ -1,6 +1,6 @@
 # blossom_app
 
-Bu proje, staj sürecimde geliştirilen bir e-ticaret uygulamasıdır. Flutter ve Firebase teknolojileri kullanılarak modern ve fonksiyonel bir mobil e-ticaret platformu oluşturulmuştur. Kullanıcı ve admin rollerini destekleyen bu sistem, bir e-ticaret platformunda beklenen temel işlevselliklerin tamamını sunmakta ve ölçeklenebilir bir altyapıya sahiptir.
+Bu proje, staj sürecimde geliştirdiğim bir e-ticaret uygulamasıdır. Flutter ve Firebase teknolojileri kullanılarak modern ve fonksiyonel bir mobil e-ticaret platformu oluşturulmuştur. Kullanıcı ve admin rollerini destekleyen bu sistem, bir e-ticaret platformunda beklenen temel işlevselliklerin tamamını sunmakta ve ölçeklenebilir bir altyapıya sahiptir.
 
 # 🎯 Projenin Amacı
 Bu proje, mobil platformlarda dinamik ve güvenilir bir alışveriş deneyimi sağlamayı hedefler. Kullanıcıların kolayca ürünleri keşfedip sipariş verebildiği, adminin ise tüm operasyonları zahmetsizce yönetebildiği bir yapı kurulmuştur. Tamamen gerçek dünyaya uyarlanabilir bir e-ticaret iskeleti sunar.
